@@ -6,10 +6,10 @@
 
 </div>
 
-## 📚 Formacao Academica
+## 📚 Formação Academica
 
-- **Ciencia de Dados** - FATEC Ourinhos *(2023-2026)*
-- **Tecnico em Administracao** - ETEC *(2020-2022)*
+- **Ciência de Dados** - FATEC Ourinhos *(2023-2026)*
+- **Técnico em Administração** - ETEC *(2020-2022)*
 - **Programador Web** - IFRS *(Concluido)*
 - **Administrador de Banco de Dados** - IFRS *(Cursando)*
 
