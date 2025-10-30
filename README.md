@@ -1,4 +1,7 @@
 <div align="center">
+  
+🐍 Veja a cobrinha comer minhas contribuições:
+![snake gif](https://github.com/caueribeiro02/caueribeiro02/blob/output/github-contribution-grid-snake.svg)
 
 # Caue Ribeiro da Silva
 
