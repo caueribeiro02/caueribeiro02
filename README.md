@@ -26,6 +26,8 @@
 
 ![Caue's GitHub stats](https://github-readme-stats.vercel.app/api?username=caueribeiro02&show_icons=true&theme=radical)
 
+
+
 ## 📫 Conecte-se Comigo
 
 [![Gmail](https://img.shields.io/badge/Gmail-D14836?style=for-the-badge&logo=gmail&logoColor=white)](mailto:caueribeiro02@gmail.com)
@@ -36,5 +38,7 @@
 <div align="center">
   
 🔥 *"Sempre evoluindo"* 🔥
+
+![Visitas ao perfil](https://komarev.com/ghpvc/?username=CaueRibeiro&color=blue&style=flat-square)
 
 </div>
