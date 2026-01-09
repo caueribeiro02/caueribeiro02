@@ -14,7 +14,7 @@
 - **Ciência de Dados** - FATEC Ourinhos *(2023-2026)*
 - **Técnico em Administração** - ETEC *(2020-2022)*
 - **Programador Web** - IFRS *(Concluido)*
-- **Administrador de Banco de Dados** - IFRS *(Cursando)*
+- **Administrador de Banco de Dados** - IFRS *(Concluido)*
 
 ## 🛠️ Tecnologias & Ferramentas
 
