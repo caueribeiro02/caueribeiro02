@@ -11,16 +11,19 @@
 
 ## 📚 Formação Academica
 
-- **Ciência de Dados** - FATEC Ourinhos *(2023-2026)*
-- **Técnico em Administração** - ETEC *(2020-2022)*
+- **Ciência de Dados** - FATEC Ourinhos *(Em Andamento)*
+- **Técnico em Administração** - ETEC *(Concluido)*
 - **Programador Web** - IFRS *(Concluido)*
 - **Administrador de Banco de Dados** - IFRS *(Concluido)*
+- **Introdução ao Python** - Santander / Open Academy *(Concluido)*
+- **Node.js: Introdução ao Desenvolvimento de APIs Modernas** - IFRS *(Concluido)*
 
 ## 🛠️ Tecnologias & Ferramentas
 
 ![Python](https://img.shields.io/badge/Python-3776AB?style=for-the-badge&logo=python&logoColor=white)
 ![SQL](https://img.shields.io/badge/SQL-4479A1?style=for-the-badge&logo=mysql&logoColor=white)
 ![HTML5](https://img.shields.io/badge/HTML5-E34F26?style=for-the-badge&logo=html5&logoColor=white)
+[![PHP 8.1+](https://img.shields.io/badge/PHP-8.1%2B-777BB4?style=for-the-badge&logo=php&logoColor=white)](https://www.php.net/)
 
 ## 📊 GitHub Stats
 
